@@ -1,1 +1,2 @@
-print("hnhy");
+print("hnhy")
+print("w")
